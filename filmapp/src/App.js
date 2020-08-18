@@ -3,7 +3,6 @@ import "./normalize.css";
 import "./index.css";
 import FilmListing from './FilmListing';
 import FilmDetails from './FilmDetails';
-import FilmRow from './FilmRow';
 import TMDB from './TMDB';
 
 
